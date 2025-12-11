@@ -1,1 +1,1 @@
-# RPG-Maker-MV
+一些简单的JavaScript，切勿用于商业用途，在您的RPG Maker中使用了这些脚本插件请在致谢名单署名YOCIM，感谢。
