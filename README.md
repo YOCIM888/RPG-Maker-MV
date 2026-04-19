@@ -1,6 +1,3 @@
-好的，以下是您要求的英文版 Markdown 内容，已严格按照标准 Markdown 语法编写。
-
-```markdown
 # DateSeasonSystem.js
 
 > A step-based date and season system designed for RPG Maker MV. Time periods advance as the player moves, with 8 time segments making up one day, and four seasons distributed across a realistic 365-day annual calendar.
@@ -130,4 +127,3 @@ This plugin is released under the MIT License. You are free to use, modify, and 
 
 ## Support & Feedback
 For questions or suggestions, please contact the author YOCIM (via RPG Maker communities or by submitting an issue on GitHub).
-```
